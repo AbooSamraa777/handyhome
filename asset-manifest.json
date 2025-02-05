@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/AbooSamraa777/handyhome/tree/gh-pages/static/css/main.57b380bf.css",
-    "main.js": "/AbooSamraa777/handyhome/tree/gh-pages/static/js/main.ff1e9f6c.js",
-    "static/js/453.54d8c1fd.chunk.js": "/AbooSamraa777/handyhome/tree/gh-pages/static/js/453.54d8c1fd.chunk.js",
-    "static/media/4.png": "/AbooSamraa777/handyhome/tree/gh-pages/static/media/4.10ca160a248598dfb522.png",
-    "static/media/2.png": "/AbooSamraa777/handyhome/tree/gh-pages/static/media/2.4895a39e0f35a9d5ecdf.png",
-    "static/media/3.png": "/AbooSamraa777/handyhome/tree/gh-pages/static/media/3.0cc3c07f3965635e80bb.png",
-    "static/media/5.png": "/AbooSamraa777/handyhome/tree/gh-pages/static/media/5.499c7763225f1232b2bd.png",
-    "static/media/1.png": "/AbooSamraa777/handyhome/tree/gh-pages/static/media/1.101762ae4e1544609605.png",
-    "static/media/handyhome.png": "/AbooSamraa777/handyhome/tree/gh-pages/static/media/handyhome.53e2b924e921fb024bbf.png",
-    "static/media/plumber.png": "/AbooSamraa777/handyhome/tree/gh-pages/static/media/plumber.68fef38b156a50247428.png",
-    "static/media/painter.png": "/AbooSamraa777/handyhome/tree/gh-pages/static/media/painter.944a23add0adc3101112.png",
-    "static/media/handyman.png": "/AbooSamraa777/handyhome/tree/gh-pages/static/media/handyman.8778a5ffd5aa6710a5ac.png",
-    "static/media/pest.png": "/AbooSamraa777/handyhome/tree/gh-pages/static/media/pest.90bab0c71afba936b033.png",
-    "static/media/carpenter.png": "/AbooSamraa777/handyhome/tree/gh-pages/static/media/carpenter.e8cb4eddc452808d1fab.png",
-    "static/media/gardener.png": "/AbooSamraa777/handyhome/tree/gh-pages/static/media/gardener.625979def6609e6a6910.png",
-    "index.html": "/AbooSamraa777/handyhome/tree/gh-pages/index.html",
-    "main.57b380bf.css.map": "/AbooSamraa777/handyhome/tree/gh-pages/static/css/main.57b380bf.css.map",
-    "main.ff1e9f6c.js.map": "/AbooSamraa777/handyhome/tree/gh-pages/static/js/main.ff1e9f6c.js.map",
-    "453.54d8c1fd.chunk.js.map": "/AbooSamraa777/handyhome/tree/gh-pages/static/js/453.54d8c1fd.chunk.js.map"
+    "main.css": "/handyhome/static/css/main.57b380bf.css",
+    "main.js": "/handyhome/static/js/main.63d21450.js",
+    "static/js/453.54d8c1fd.chunk.js": "/handyhome/static/js/453.54d8c1fd.chunk.js",
+    "static/media/4.png": "/handyhome/static/media/4.10ca160a248598dfb522.png",
+    "static/media/2.png": "/handyhome/static/media/2.4895a39e0f35a9d5ecdf.png",
+    "static/media/3.png": "/handyhome/static/media/3.0cc3c07f3965635e80bb.png",
+    "static/media/5.png": "/handyhome/static/media/5.499c7763225f1232b2bd.png",
+    "static/media/1.png": "/handyhome/static/media/1.101762ae4e1544609605.png",
+    "static/media/handyhome.png": "/handyhome/static/media/handyhome.53e2b924e921fb024bbf.png",
+    "static/media/plumber.png": "/handyhome/static/media/plumber.68fef38b156a50247428.png",
+    "static/media/painter.png": "/handyhome/static/media/painter.944a23add0adc3101112.png",
+    "static/media/handyman.png": "/handyhome/static/media/handyman.8778a5ffd5aa6710a5ac.png",
+    "static/media/pest.png": "/handyhome/static/media/pest.90bab0c71afba936b033.png",
+    "static/media/carpenter.png": "/handyhome/static/media/carpenter.e8cb4eddc452808d1fab.png",
+    "static/media/gardener.png": "/handyhome/static/media/gardener.625979def6609e6a6910.png",
+    "index.html": "/handyhome/index.html",
+    "main.57b380bf.css.map": "/handyhome/static/css/main.57b380bf.css.map",
+    "main.63d21450.js.map": "/handyhome/static/js/main.63d21450.js.map",
+    "453.54d8c1fd.chunk.js.map": "/handyhome/static/js/453.54d8c1fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57b380bf.css",
-    "static/js/main.ff1e9f6c.js"
+    "static/js/main.63d21450.js"
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AbooSamraa777/handyhome/static/css/main.57b380bf.css",
+    "main.js": "/AbooSamraa777/handyhome/static/js/main.1bba9370.js",
+    "static/js/488.f3294598.chunk.js": "/AbooSamraa777/handyhome/static/js/488.f3294598.chunk.js",
+    "static/media/4.png": "/AbooSamraa777/handyhome/static/media/4.10ca160a248598dfb522.png",
+    "static/media/2.png": "/AbooSamraa777/handyhome/static/media/2.4895a39e0f35a9d5ecdf.png",
+    "static/media/3.png": "/AbooSamraa777/handyhome/static/media/3.0cc3c07f3965635e80bb.png",
+    "static/media/5.png": "/AbooSamraa777/handyhome/static/media/5.499c7763225f1232b2bd.png",
+    "static/media/1.png": "/AbooSamraa777/handyhome/static/media/1.101762ae4e1544609605.png",
+    "static/media/handyhome.png": "/AbooSamraa777/handyhome/static/media/handyhome.53e2b924e921fb024bbf.png",
+    "static/media/plumber.png": "/AbooSamraa777/handyhome/static/media/plumber.68fef38b156a50247428.png",
+    "static/media/painter.png": "/AbooSamraa777/handyhome/static/media/painter.944a23add0adc3101112.png",
+    "static/media/handyman.png": "/AbooSamraa777/handyhome/static/media/handyman.8778a5ffd5aa6710a5ac.png",
+    "static/media/pest.png": "/AbooSamraa777/handyhome/static/media/pest.90bab0c71afba936b033.png",
+    "static/media/carpenter.png": "/AbooSamraa777/handyhome/static/media/carpenter.e8cb4eddc452808d1fab.png",
+    "static/media/gardener.png": "/AbooSamraa777/handyhome/static/media/gardener.625979def6609e6a6910.png",
+    "index.html": "/AbooSamraa777/handyhome/index.html",
+    "main.57b380bf.css.map": "/AbooSamraa777/handyhome/static/css/main.57b380bf.css.map",
+    "main.1bba9370.js.map": "/AbooSamraa777/handyhome/static/js/main.1bba9370.js.map",
+    "488.f3294598.chunk.js.map": "/AbooSamraa777/handyhome/static/js/488.f3294598.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57b380bf.css",
+    "static/js/main.1bba9370.js"
+  ]
+}
